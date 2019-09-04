@@ -1,1 +1,1 @@
-[]inicio de tudo.
+- [x]inicio de tudo.
